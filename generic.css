@@ -1,0 +1,151 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/*display*/
+
+.d-flex{
+    display: flex;
+}
+
+.d-block{
+    display: block;
+}
+
+
+.d-inline-block{
+    display: inline-block;
+}
+
+
+/*flex-direction*/
+
+.flex-row{
+    flex-direction: row;
+}
+
+.flex-column{
+    flex-direction: column;
+}
+
+/*justify-content*/
+
+
+.justify-center{
+    justify-content: center;
+}
+
+.justify-between{
+    justify-content: space-between;
+}
+
+.justify-around{
+    justify-content: space-around;
+}
+
+.justify-evenly{
+    justify-content: space-evenly;
+}
+
+.justify-flexend{
+    justify-content: flex-end;
+}
+
+/*alignement vertical*/
+
+.align-center{
+    align-items: center;
+}
+
+/*width*/
+
+.w33{
+    width: 33%;
+}
+
+
+.w90{
+    width: 90%;
+}
+
+
+/* margin et padding auto*/
+
+.m-auto{
+    margin: auto;
+}
+
+.p-auto{
+    padding: auto;
+}
+
+
+/*padding et margin horizontal et vertical auto*/
+
+
+.px-auto{
+    padding-left: auto;
+    padding-right: auto;
+}
+.py-auto{
+    padding-top: auto;
+    padding-bottom: auto;
+}
+
+.mx-auto{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.my-auto{
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+/*couleur background*/
+
+.bg-blue{
+    background-color: blue;
+}
+
+.bg-yellow{
+    background-color: yellow;
+}
+
+.text-center{
+    text-align: center;
+}
+
+.text-deco-none{
+    text-decoration: none;
+}
+
+.list-style-none{
+    list-style-type: none;
+}
+/*taille logo*/
+
+.img-logo{
+    width: 150px;
+    height: auto;
+}
+
+.img-social-network{
+    width: 35px;
+    height: auto;
+}
+
+/*ombre */
+
+.box-shadow-button{
+    box-shadow:2px 2px 1px grey ;
+}
+
+.box-shadow-nav{
+    box-shadow:2px 2px 1px grey ;
+}
+
+
+
+
